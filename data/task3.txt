@@ -1,0 +1,7 @@
+ERROR : The system is not working
+INFO : The is working
+ERROR : The user record is empty
+WARNING : Java version is higher
+ERROR : The app is crashing
+The system has following ERROR
+The application has WARNING
